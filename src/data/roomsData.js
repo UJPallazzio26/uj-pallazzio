@@ -30,7 +30,7 @@ export const roomsData = [
     name: "Business Comfort Room",
     images: [img1, img2, img3, img4,],
     occupancy: "2 Adults",
-    price: "₹1,950",
+    price: "₹2,000",
     bedType: "Queen Size Bed",
     alt: "UJ Pallazzio Business Class with queenbed and modern amenities",
     description:
@@ -59,7 +59,7 @@ export const roomsData = [
     name: "Premium Comfort Room",
     images: [st1, st2, st3 ,img5],
     occupancy: "2 Adults + 1 Child",
-    price: "₹2,250",
+    price: "₹2,500",
     bedType: "King Size Bed",
     alt: "UJ Pallazzio Standard Class with living area and king bed",
     description:
@@ -89,7 +89,7 @@ export const roomsData = [
     name: "Executive Luxury Room",
     images: [lu1, lu2, lu3],
     occupancy: "4 Adults",
-    price: "₹2,750",
+    price: "₹3,000",
     bedType: "Super King Size Bed",
     alt: "UJ Pallazzio Luxury Class with living area and king bed",
     description:
