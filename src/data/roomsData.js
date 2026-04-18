@@ -30,7 +30,7 @@ export const roomsData = [
     name: "Business Comfort Room",
     images: [img1, img2, img3, img4,],
     occupancy: "2 Adults",
-    price: "₹2,000",
+    price: "₹2,500",
     bedType: "Queen Size Bed",
     alt: "UJ Pallazzio Business Class with queenbed and modern amenities",
     description:
